@@ -1,1 +1,1 @@
-# frontend_mentor-Product-preview-card-HTML-CSS-
+# frontend_mentor-Product-preview-card-HTML,CSS
