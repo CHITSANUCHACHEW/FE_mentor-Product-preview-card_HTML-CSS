@@ -1,1 +1,1 @@
-# FE_mentor-Product-preview-card-HTML,CSS
+# FE_mentor-Product-preview-card_HTML-CSS
